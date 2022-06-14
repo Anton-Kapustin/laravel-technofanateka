@@ -1,0 +1,19 @@
+{
+
+	"Verify Your Email Address": "Адрес Вашей почты еще не подтвержден",
+	"A fresh verification link has been sent to your email address.": "Новый код подтверждения отправлен почту",
+	"Before proceeding, please check your email for a verification link.": "Новый код будет отправлен Вам на почту",
+	"click here to request another": "выслать новый код",
+	"A repeated request can be sent no earlier than a minute later": "Повоторный запрос можно отправить не ранее чем через минуту",
+	"Forgot Your Password": "Забыли пароль",
+	"Remember Me": "Запомнить меня",
+	"Reset Password": "Сброс пароля",
+	"Change Password": "Смена пароля",
+	"Current Password": "Текущий пароль",
+	"New Password": "Новый пароль",
+	"Confirm New Password": "Повторите новый пароль",
+	"Password": "Пароль",
+	"Confirm Password": "Повторный ввод пароля",
+	"We have emailed your password reset link!": "Ссылка на сброс пароля была отправлена на почту"
+
+}

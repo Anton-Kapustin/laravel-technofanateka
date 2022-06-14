@@ -1,0 +1,1 @@
+<img class=" {{ $class }} " src="{{ $path }}" style=" object-fit:{{ $objectFit }}; max-width:{{ $width }}; height:{{ $height }};" alt="{{ $alt }}">

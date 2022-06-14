@@ -1,0 +1,1 @@
+<a class="fas fa-chevron-left navbar-link pt-1" href="{{ url()->previous() }}"></a> 

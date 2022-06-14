@@ -1,0 +1,1 @@
+navbarAccessories.blade.php

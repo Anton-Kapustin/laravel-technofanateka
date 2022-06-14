@@ -1,0 +1,185 @@
+    p{
+        margin-top: 0px;
+        margin-bottom: 1em;
+        text-indent: 2em;
+        white-space: normal;
+    }
+
+    a:hover
+    {
+        color: #21A49A;
+    }
+
+    .whatsapp
+    {
+        background-color: #00c758;
+    }
+    .viber
+    {
+        background-color: #a303ff;
+    }
+    .instagram
+    {
+        background: rgb(255,150,6);
+        background: linear-gradient(90deg, rgba(255,150,6,1) 0%, rgba(55,9,121,1) 51%, rgba(233,0,255,1) 100%);
+    }
+    .telegram
+    {
+        background-color: #00d1ff;
+    }
+
+    .text-footer {
+        color: #45A29E;
+    }
+
+    .text-shadow {
+        text-shadow: #1F2833 1px 2px 2px; 
+    }
+
+    .btn-action
+    {
+        color: #1F2833;
+        background-color: #66FCF1;
+    }
+
+    .navbar-link {
+        color: #66FCF1;
+    }
+
+    .nav-links 
+    {
+        color: #66FCF1;
+    }
+
+    .nav-links:hover
+    {
+        /*color: #c4effa;*/
+        color: #C5C6C7;
+    }
+
+    .nav-links-active 
+    {
+        color: #fff;
+    }
+
+    .nav-links-active:hover 
+    {
+        color: #fff;
+    }
+
+    .active-link-disabled
+    {
+        color: #fff;
+        text-decoration: none;
+        pointer-events: none;
+    }
+
+    .bg-form-header { 
+        /*background: #150028; */
+        background: #1F2833; 
+    }
+    .bg-form { 
+        /*background: #180101; */
+        background: #1F2833; 
+    }
+    .bg-card-header { 
+        /*background: #150028; */
+        background: #1F2833; 
+    }
+    .bg-card-body { 
+        /*background: #1e012e; */
+        /*background: #160655; */
+        background: #1F2833; 
+    }
+    .bg-main { 
+        /*background: #3A219F;*/
+        /*background: rgb(22,6,85);*/
+        /*background: linear-gradient(90deg, rgba(22,6,85,1) 0%, rgba(58,33,159,1) 36%, rgba(58,33,159,1) 63%, rgba(22,6,85,1) 100%);*/
+        background: #0B0C10;
+    }
+
+    .bg-gradient-home {
+        background-color: #21D4FD;
+        background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+
+
+    }
+
+    .bg-nav {
+        /*background: #3A219F; */
+        background: #1F2833; 
+    }
+
+    .bg-image 
+    {
+         background-image: url(https://technofanateka.ru/res/bg/bg.jpg);
+         background-size: contain;
+     }
+
+     .border-basic-color {
+        border-color: #45A29E;
+     }
+
+    .img-cirle-20 
+    {
+    width: 20rem;
+    height: 20rem;
+    border-radius: 2%;
+    -webkit-box-shadow: 4px 4px 6px 0px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 2px 2px 5px 0px rgba(0, 0, 0, 1);
+    box-shadow: 1px 1px 100px 0px rgba(0, 0, 0, 1),
+                -1px -1px 100px 0px rgba(0, 0, 0, 1);
+    }
+
+    .img-rounded-30 
+    {
+    overflow: hidden; 
+    background: #000;
+    -webkit-box-shadow: 50px 6px 80px 30px rgba(0, 0, 0, 1),
+                        -50px 6px 80px 30px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 50px 6px 80px 30px rgba(0, 0, 0, 1),
+                    -50px 6px 80px 30px rgba(0, 0, 0, 1);
+    box-shadow: 50px 6px 80px 30px rgba(0, 0, 0, 1),
+                -50px 6px 80px 30px rgba(0, 0, 0, 1);
+    }
+
+    .img-assemble
+    {
+        width: 15rem;
+        height: auto;
+        -webkit-box-shadow: 1px 6px 80px 30px rgba(0, 0, 0, 1),
+                            -1px 6px 80px 30px rgba(0, 0, 0, 1);
+        -moz-box-shadow: 50px 6px 80px 30px rgba(0, 0, 0, 1),
+                        -50px 6px 80px 30px rgba(0, 0, 0, 1);
+        box-shadow: 1px 1px 30px 0px rgba(0, 0, 0, 1),
+                    -1px 0px 30px 0px rgba(0, 0, 0, 1);
+    }
+
+    @media screen and (max-width: 420px)
+    {
+        body
+        {
+                font-size : 1rem;
+        }
+    }
+
+    @media screen and (max-width: 320px)
+    {
+        body 
+        {
+            font-size : 0.8rem;
+        }
+    }
+    
+    .pagination > li > a:hover {color: #45A29E;}
+    .pagination > li > a {color: #66FCF1} 
+    .pagination > li > span,
+    .pagination > li > span,
+    .pagination > li > span,
+    .pagination > .active > a, 
+    .pagination > .active > a:focus,
+    .pagination > .active > a:hover,
+    .pagination > .active > span, 
+    .pagination > .active > span:focus,
+    .pagination > .active > span:hover
+
